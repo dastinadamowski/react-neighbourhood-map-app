@@ -1,6 +1,6 @@
 # Udacity Project: Neighbourhood Map
 
-Neighbourhood Map is a single page web application. It displays a Google Map of an area in Cracow (Poland) and various points of interest with additional information presented from the Wikipedia API when landmark is selected. This app is built for the No.8 Neighbourhood map project which is a part of the [Front-End Nanodegree Developer with Udacity](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+Neighbourhood Map is a single page web application. It displays a Google Map of an area in Cracow (Poland) and various points of interest with additional information presented from the Foursquare API when landmark is selected. This app is built for the No.8 Neighbourhood map project which is a part of the [Front-End Nanodegree Developer with Udacity](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
 
 ## Run this project locally on your computer
