@@ -15,8 +15,6 @@ Neighbourhood Map is a single page web application. It displays a Google Map of 
 
  * [Google Maps API](https://cloud.google.com/maps-platform/)
 
- * [Bootstrap](https://getbootstrap.com/)
-
  * HTML document traversal and manipulation possible with [jQuery 3.2.1](http://jquery.com/)
 
  * Built with [React JS](https://reactjs.org/)
