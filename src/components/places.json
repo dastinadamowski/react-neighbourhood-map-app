@@ -1,0 +1,35 @@
+[{
+    "name": "Wawel Royal Castle",
+    "latitude": 50.054025,
+    "longitude": 19.935422
+  },
+
+  {
+    "name": "ICE Cracow Congress Centre",
+    "latitude": 50.0480221,
+    "longitude": 19.9311261
+  },
+
+  {
+    "name": "Galeria Kazimierz Shopping Mall",
+    "latitude": 50.0539606,
+    "longitude": 19.9492016
+  },
+
+  {
+    "name": "National Museum in Cracow",
+    "latitude": 50.0602825,
+    "longitude": 19.923608
+  },
+
+  {
+    "name": "Jagiellonian University",
+    "latitude": 50.0611783,
+    "longitude": 19.9343207
+  },
+
+  {
+    "name": "Church of Saints Peter and Paul",
+    "latitude": 50.0570654,
+    "longitude": 19.9383789
+  }]

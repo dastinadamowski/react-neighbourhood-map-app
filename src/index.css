@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.location-list {
+  padding: 5px;
+  margin: 10px;
+  overflow: auto;
+}
+
+.search-area {
+  border-radius: 10px;
+  position: absolute;
+  max-height: 50%;
+  overflow: auto;
+  left: 0.5%;
+  top: 6%;
+  z-index: 2;
+  background-color: beige;
+  opacity: 0.85;
+  cursor: pointer;
+}
+
+.search-input {
+  padding: 5px 10px;
+  font-size: 1.2em;
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-weight: 600;
+}
+
+.search {
+  z-index: 1;
+  position: fixed;
+  top: 5px;
+  left: 5px;
+}
+
+.search-field {
+  width: 320px;
+  padding: 10px;
+}
+
+.search-area {
+  font-size: 1.15em;
+  float: right;
+}
